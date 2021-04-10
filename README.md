@@ -1,9 +1,13 @@
 # GoodVibes 🎧
 <img src="https://i.imgur.com/8S8NVy0.png" width="530" height="400">
 
-# How To Host
-The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template= https://github.com/matesa/GoodVibes-1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ # Deploy GoodVibes Beta on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/matesa/GoodVibes-1/)
+
+# Main repository
+
+[Click here](https://github.com/GoodVibes-1/GoodVibes)
 
 Get STRING_NAME from here:
 
